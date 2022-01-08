@@ -1,0 +1,24 @@
+{
+  "name": "React_200",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwonsean/React_200.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwonsean/React_200/issues"
+  },
+  "homepage": "https://github.com/kwonsean/React_200#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.0",
+    "first": "0.0.3"
+  }
+}
